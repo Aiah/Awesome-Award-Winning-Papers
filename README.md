@@ -10,7 +10,7 @@ This repo collects award-winning papers from major top conferences (since 2017),
 
 | Domain                                | Conferences                                                  |
 | :------------------------------------ | :----------------------------------------------------------- |
-| Natural Language Processing           | [ACL](#acl), [EMNLP](#emnlp), [NAACL](#naacl), [EACL](#eacl) |
+| Natural Language Processing           | [ACL](#acl), [EMNLP](#emnlp), [NAACL](#naacl)                |
 | Cross-domain                          | [AAAI](#aaai), [IJCAI](#ijcai), [NeurIPS](#neurips), [ICML](#icml), [ICLR](#iclr), [WWW](#www) |
 | Data Mining and Information Retrieval | [KDD](#kdd), [SIGIR](#sigir), [CIKM](#cikm), [ICDM](#icdm), [WSDM](#wsdm), [RecSys](#recsys) |
 | Computer Vision                       | [CVPR](#cvpr), [ICCV](#iccv), [ECCV](#eccv)                  |
@@ -61,11 +61,3 @@ This repo collects award-winning papers from major top conferences (since 2017),
 | :--: | :--------- | :----------------------------------------------------------- |
 | 2019 | best paper | **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423.pdf)**<br/> Jacob Devlin (Google AI Language); Ming-Wei Chang (Google AI Language); Kenton Lee (Google AI Language); Kristina Toutanova (Google AI Language) |
 | 2018 | best paper | **[Deep contextualized word representations](https://www.aclweb.org/anthology/N18-1202.pdf)**<br/> Matthew E. Peters (Allen Institute for Artificial Intelligence); Mark Neumann (Allen Institute for Artificial Intelligence); Mohit Iyyer (Allen Institute for Artificial Intelligence); Matt Gardner (Allen Institute for Artificial Intelligence); Christopher Clark (University of Washington); Kenton Lee (University of Washington); Luke Zettlemoyer (Allen Institute for Artificial Intelligence) |
-
-<a id="eacl"></a>
-
-## EACL
-
-| Year | Award      | Paper                                                        |
-| :--: | :--------- | :----------------------------------------------------------- |
-| 2021 | best paper | 1. **[Error Analysis and the Role of Morphology](https://www.aclweb.org/anthology/2021.eacl-main.162.pdf)**<br/> Marcel Bollmann (University of Copenhagen); Anders Søgaard (University of Copenhagen) <br/> 2. **[Is Supervised Syntactic Parsing Beneficial for Language Understanding Tasks? An Empirical Investigation](https://www.aclweb.org/anthology/2021.eacl-main.270v2.pdf)**<br/>Goran Glavaš (University of Mannheim); Ivan Vulić (University of Cambridge) |
