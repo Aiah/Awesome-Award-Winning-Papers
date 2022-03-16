@@ -1,8 +1,8 @@
 # Awesome-Award-Winning-Papers
 
-本项目收集了各大顶会获奖论文（自2015年起），包括最佳论文、最佳demo论文、提名奖等，其中部分参考了[Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers)项目（包括自2013年起最佳论文）。欢迎大家共同参与到这个项目中来 ☺
+本项目收集了各大顶会获奖论文（自2015年起），包括最佳论文、最佳demo论文、提名奖等，其中部分参考了[Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers)项目（包括自2013年起最佳论文）。逐步完善中，也欢迎大家共同参与到这个项目中来 ☺
 
-This repo collects award-winning papers from major top conferences (since 2015), including best papers, best demo papers, nominations, etc., with some references to the [Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers)(including the best papers since 2013). Welcome to participate in this repo together ☺
+This repo collects award-winning papers from major top conferences (since 2015), including best papers, best demo papers, nominations, etc., with some references to the [Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers)(including the best papers since 2013). Gradually improving, but also welcome to participate in this repo together ☺
 
 
 
